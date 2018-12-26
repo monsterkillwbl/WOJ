@@ -1,6 +1,5 @@
 # WOJ C/C++
 > WHU Olive Judger
-
 武汉大学计算机学院程序设计实践平台
 
 大四程序设计训练需要刷的题库，人家的都是Online Judge，为什么咱们学校的叫Olive 橄榄emmmm。
